@@ -21,6 +21,10 @@ body {
   justify-content: center;
 }
 
+img {
+  background-image: object;
+}
+
 #intro {
   color: red;
   text-align: center;
